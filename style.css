@@ -1,7 +1,13 @@
-html {
+
+body {
   width: 50%;
   margin-left: 25%;
   margin-right: 25%;
+  background: url("resources/horseshoebend.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 header { 
    background-color: #0000ff;
@@ -29,6 +35,12 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+main {
+  border-radius: 5px;
+  background-color: #ffffff;
+  opacity: 0.5;
 }
 
 li a:hover {
