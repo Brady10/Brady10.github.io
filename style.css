@@ -28,3 +28,13 @@ li a {
 li a:hover {
   background-color: #404040;
 }
+
+body {
+  
+}
+
+footer {
+  background-color: #0000ff;
+  color: #ffffff;
+  border-radius: 5px;
+}
