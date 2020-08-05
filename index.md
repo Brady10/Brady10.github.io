@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-
 <head>
    <!--Metadata-->
    <title>My Website!</title>
