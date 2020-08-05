@@ -42,4 +42,3 @@
 <footer>
 <p>Questions or concerns? Email me at bradyrblackley@gmail.com</p>
 </footer>
-</html>
